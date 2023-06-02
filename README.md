@@ -6,7 +6,7 @@ You have a dream, so we have a job!!!
 #### There are additional advantages for a business account
 
 ### Built With 
-### | REACT | BOOTSTRAP | ROUTES |
+### | REACT | BOOTSTRAP | 
 
 
 
