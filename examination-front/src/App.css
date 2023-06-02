@@ -1,0 +1,29 @@
+#light {
+  background-color: white;
+  color: black;
+}
+
+#dark {
+  background-color: #0b4168;
+  color: white;
+}
+.title {
+  margin-top: -80px;
+  margin-bottom: 60px;
+}
+
+.active:is(:link, :active) {
+  text-decoration: underline;
+  font-style: italic;
+}
+nav {
+  font-weight: bold;
+}
+.hover-zoomin:hover {
+  -webkit-transform: scale(1.2);
+  -moz-transform: scale(1.2);
+  -o-transform: scale(1.2);
+  -ms-transform: scale(1.2);
+  transform: scale(1.2);
+  color: red;
+}
